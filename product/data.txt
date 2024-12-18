@@ -1,0 +1,20 @@
+Product: Keyboard, Price: 224.46, Quantity Left: 208, Total Sold: 637, Rating: 4.5, Offer: 15% off
+Product: Air Purifier, Price: 104.86, Quantity Left: 477, Total Sold: 247, Rating: 4.0, Offer: 10% off
+Product: Fitness Tracker, Price: 283.74, Quantity Left: 237, Total Sold: 69, Rating: 4.1, Offer: 10% off
+Product: Gaming Mouse, Price: 299.12, Quantity Left: 263, Total Sold: 89, Rating: 4.3, Offer: 10% off
+Product: Digital Camera, Price: 100.59, Quantity Left: 4, Total Sold: 129, Rating: 4.2, Offer: No current offer
+Product: Wristwatch, Price: 266.74, Quantity Left: 107, Total Sold: 516, Rating: 4.3, Offer: 15% off
+Product: Keyboard, Price: 68.86, Quantity Left: 170, Total Sold: 889, Rating: 4.7, Offer: No current offer
+Product: Fitness Tracker, Price: 38.15, Quantity Left: 74, Total Sold: 587, Rating: 4.0, Offer: Buy 1 Get 1
+Product: Digital Camera, Price: 89.94, Quantity Left: 302, Total Sold: 371, Rating: 4.5, Offer: 10% off
+Product: Keyboard, Price: 38.55, Quantity Left: 413, Total Sold: 645, Rating: 4.7, Offer: 15% off
+Product: Wireless Earbuds, Price: 246.38, Quantity Left: 122, Total Sold: 48, Rating: 4.0, Offer: No current offer
+Product: Backpack, Price: 112.83, Quantity Left: 353, Total Sold: 264, Rating: 4.0, Offer: Buy 1 Get 1
+Product: Wristwatch, Price: 15.56, Quantity Left: 498, Total Sold: 913, Rating: 4.3, Offer: 10% off
+Product: Travel Pillow, Price: 94.25, Quantity Left: 495, Total Sold: 25, Rating: 4.2, Offer: Buy 1 Get 1
+Product: Bluetooth Speaker, Price: 277.31, Quantity Left: 95, Total Sold: 84, Rating: 4.5, Offer: 20% off
+Product: Running Shoes, Price: 204.57, Quantity Left: 347, Total Sold: 207, Rating: 4.0, Offer: 10% off
+Product: Smartphone Case, Price: 214.30, Quantity Left: 408, Total Sold: 542, Rating: 4.7, Offer: Buy 1 Get 1
+Product: Wireless Earbuds, Price: 171.65, Quantity Left: 374, Total Sold: 574, Rating: 4.0, Offer: No current offer
+Product: Air Purifier, Price: 39.82, Quantity Left: 478, Total Sold: 294, Rating: 4.7, Offer: Buy 1 Get 1
+Product: Backpack, Price: 61.95, Quantity Left: 438, Total Sold: 24, Rating: 4.3, Offer: 20% off
