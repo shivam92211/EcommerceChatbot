@@ -43,7 +43,7 @@ A unified platform for customers to track orders, search for relevant products, 
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ecommerce-app.git
+   git clone https://github.com/shivam92211/EcommerceChatbot.git
    cd ecommerce-app
    ```
 
