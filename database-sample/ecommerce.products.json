@@ -1,0 +1,180 @@
+[{
+  "_id": "211d7392c",
+  "name": "Keyboard",
+  "price": "38.55",
+  "quantity_left": "413",
+  "total_sold": "645",
+  "rating": "4.7",
+  "offer": "15% off"
+},
+{
+  "_id": "bd8d27e0",
+  "name": "Air Purifier",
+  "price": "39.82",
+  "quantity_left": "478",
+  "total_sold": "294",
+  "rating": "4.7",
+  "offer": "Buy 1 Get 1"
+},
+{
+  "_id": "4ec50a98",
+  "name": "Bluetooth Speaker",
+  "price": "277.31",
+  "quantity_left": "95",
+  "total_sold": "84",
+  "rating": "4.5",
+  "offer": "20% off"
+},
+{
+  "_id": "16ee97243",
+  "name": "Digital Camera",
+  "price": "100.59",
+  "quantity_left": "4",
+  "total_sold": "129",
+  "rating": "4.2",
+  "offer": "No current offer"
+},
+{
+  "_id": "245d6dc37",
+  "name": "Backpack",
+  "price": "112.83",
+  "quantity_left": "353",
+  "total_sold": "264",
+  "rating": "4.0",
+  "offer": "Buy 1 Get 1"
+},
+{
+  "_id": "16bdd67cf",
+  "name": "Gaming Mouse",
+  "price": "299.12",
+  "quantity_left": "263",
+  "total_sold": "89",
+  "rating": "4.3",
+  "offer": "10% off"
+},
+{
+  "_id": "1b6bfbf44",
+  "name": "Keyboard",
+  "price": "68.86",
+  "quantity_left": "170",
+  "total_sold": "889",
+  "rating": "4.7",
+  "offer": "No current offer"
+},
+{
+  "_id": "1f3d2f41b",
+  "name": "Fitness Tracker",
+  "price": "38.15",
+  "quantity_left": "74",
+  "total_sold": "587",
+  "rating": "4.0",
+  "offer": "Buy 1 Get 1"
+},
+{
+  "_id": "116ee5729",
+  "name": "Air Purifier",
+  "price": "104.86",
+  "quantity_left": "477",
+  "total_sold": "247",
+  "rating": "4.0",
+  "offer": "10% off"
+},
+{
+  "_id": "20a4c34b3",
+  "name": "Digital Camera",
+  "price": "89.94",
+  "quantity_left": "302",
+  "total_sold": "371",
+  "rating": "4.5",
+  "offer": "10% off"
+},
+{
+  "_id": "c31acb6c",
+  "name": "Backpack",
+  "price": "61.95",
+  "quantity_left": "438",
+  "total_sold": "24",
+  "rating": "4.3",
+  "offer": "20% off"
+},
+{
+  "_id": "4ee94bae",
+  "name": "Running Shoes",
+  "price": "204.57",
+  "quantity_left": "347",
+  "total_sold": "207",
+  "rating": "4.0",
+  "offer": "10% off"
+},
+{
+  "_id": "96b7dc65",
+  "name": "Wireless Earbuds",
+  "price": "171.65",
+  "quantity_left": "374",
+  "total_sold": "574",
+  "rating": "4.0",
+  "offer": "No current offer"
+},
+{
+  "_id": "3fd528f1",
+  "name": "Wristwatch",
+  "price": "15.56",
+  "quantity_left": "498",
+  "total_sold": "913",
+  "rating": "4.3",
+  "offer": "10% off"
+},
+{
+  "_id": "48979bff",
+  "name": "Travel Pillow",
+  "price": "94.25",
+  "quantity_left": "495",
+  "total_sold": "25",
+  "rating": "4.2",
+  "offer": "Buy 1 Get 1"
+},
+{
+  "_id": "10e2f7c33",
+  "name": "Keyboard",
+  "price": "224.46",
+  "quantity_left": "208",
+  "total_sold": "637",
+  "rating": "4.5",
+  "offer": "15% off"
+},
+{
+  "_id": "160c26597",
+  "name": "Fitness Tracker",
+  "price": "283.74",
+  "quantity_left": "237",
+  "total_sold": "69",
+  "rating": "4.1",
+  "offer": "10% off"
+},
+{
+  "_id": "5d20022f",
+  "name": "Smartphone Case",
+  "price": "214.30",
+  "quantity_left": "408",
+  "total_sold": "542",
+  "rating": "4.7",
+  "offer": "Buy 1 Get 1"
+},
+{
+  "_id": "19d863b57",
+  "name": "Wristwatch",
+  "price": "266.74",
+  "quantity_left": "107",
+  "total_sold": "516",
+  "rating": "4.3",
+  "offer": "15% off"
+},
+{
+  "_id": "22ab0920b",
+  "name": "Wireless Earbuds",
+  "price": "246.38",
+  "quantity_left": "122",
+  "total_sold": "48",
+  "rating": "4.0",
+  "offer": "No current offer"
+}]

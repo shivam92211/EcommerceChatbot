@@ -1,0 +1,154 @@
+[{
+  "_id": "customer@gmail.com",
+  "password": "1234",
+  "firstName": "Shivam",
+  "lastName": "Vishwakarma",
+  "address": {
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "street 1": "Indra lok phase 6",
+    "street 2": "RBK Global",
+    "zip": "401105"
+  }
+},
+{
+  "_id": "john.doe@gmail.com",
+  "password": "1234",
+  "firstName": "John",
+  "lastName": "Doe",
+  "address": {
+    "country": "USA",
+    "state": "California",
+    "city": "Los Angeles",
+    "street 1": "123 Elm Street",
+    "street 2": "Apt 4B",
+    "zip": "90001"
+  }
+},
+{
+  "_id": "jane.smith@gmail.com",
+  "password": "abcd",
+  "firstName": "Jane",
+  "lastName": "Smith",
+  "address": {
+    "country": "Canada",
+    "state": "Ontario",
+    "city": "Toronto",
+    "street 1": "45 Queen Street",
+    "street 2": "Suite 102",
+    "zip": "M4V 1B5"
+  }
+},
+{
+  "_id": "rahul.sharma@gmail.com",
+  "password": "12345",
+  "firstName": "Rahul",
+  "lastName": "Sharma",
+  "address": {
+    "country": "India",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "street 1": "A-12, Green Park",
+    "street 2": "",
+    "zip": "110016"
+  }
+},
+{
+  "_id": "emma.brown@gmail.com",
+  "password": "5678",
+  "firstName": "Emma",
+  "lastName": "Brown",
+  "address": {
+    "country": "Australia",
+    "state": "New South Wales",
+    "city": "Sydney",
+    "street 1": "89 George Street",
+    "street 2": "Building 3",
+    "zip": "2000"
+  }
+},
+{
+  "_id": "li.wei@gmail.com",
+  "password": "pass123",
+  "firstName": "Li",
+  "lastName": "Wei",
+  "address": {
+    "country": "China",
+    "state": "Beijing",
+    "city": "Beijing",
+    "street 1": "678 Wangfujing Street",
+    "street 2": "Block A",
+    "zip": "100006"
+  }
+},
+{
+  "_id": "maria.garcia@gmail.com",
+  "password": "mypass",
+  "firstName": "Maria",
+  "lastName": "Garcia",
+  "address": {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Madrid",
+    "street 1": "56 Gran Via",
+    "street 2": "Floor 2",
+    "zip": "28013"
+  }
+},
+{
+  "_id": "ali.khan@gmail.com",
+  "password": "9876",
+  "firstName": "Ali",
+  "lastName": "Khan",
+  "address": {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "street 1": "12 Clifton Road",
+    "street 2": "Block 5",
+    "zip": "75500"
+  }
+},
+{
+  "_id": "hana.takahashi@gmail.com",
+  "password": "tokyo2024",
+  "firstName": "Hana",
+  "lastName": "Takahashi",
+  "address": {
+    "country": "Japan",
+    "state": "Tokyo",
+    "city": "Tokyo",
+    "street 1": "3 Chome-5 Ginza",
+    "street 2": "Building 8",
+    "zip": "1040061"
+  }
+},
+{
+  "_id": "daniel.miller@gmail.com",
+  "password": "pass5678",
+  "firstName": "Daniel",
+  "lastName": "Miller",
+  "address": {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Munich",
+    "street 1": "47 Leopoldstrasse",
+    "street 2": "Apartment 9",
+    "zip": "80802"
+  }
+},
+{
+  "_id": "sophia.kim@gmail.com",
+  "password": "securepass",
+  "firstName": "Sophia",
+  "lastName": "Kim",
+  "address": {
+    "country": "South Korea",
+    "state": "Seoul",
+    "city": "Seoul",
+    "street 1": "123 Gangnam-daero",
+    "street 2": "Tower C",
+    "zip": "06127"
+  }
+}]
